@@ -1,4 +1,4 @@
-# twitter_threads
+# Хранилище тредов
 Ссылка на мой твиттер: [ValeriiZhyla](https://twitter.com/ValeriiZhyla)
 
 Все документы с тредами в этом репозитории созданы с помощью [ThreadReaderApp](https://threadreaderapp.com/)
