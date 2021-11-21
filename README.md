@@ -9,7 +9,6 @@ EN:
 This is a repository with russian versions of my threads about computer science.
 
 You can see the translated versions of my threads in Twitter under the pinned message. 
-
 Links for each thread are stored in the directories with pdf's.
 
 Link: [ValeriiZhyla](https://twitter.com/ValeriiZhyla)
